@@ -2,7 +2,7 @@ name: 🐞 Bug report
 description: Create a bug report to help us improve MendixSoftCRM App
 title: "[BUG:]"
 labels: [👀 Exploration Pending, 🐞 bug]
-projects: ["pdovhomilja/1"]
+projects: ["naveedgeh/1"]
 body:
   - type: markdown
     attributes:

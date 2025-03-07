@@ -14,8 +14,8 @@ MendixSoftCRM is a CRM build on top of the Next.JS 14 using TypeScript, great UI
 <a href="https://twitter.com/MendixSoftCRMapp">
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FMendixSoftCRMapp">
 </a>
-  <a href="https://github.com/pdovhomilja/MendixSoftCRM-app/blob/main/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/pdovhomilja/MendixSoftCRM-app">
+  <a href="https://github.com/naveedgeh/MendixSoftCRM-app/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/naveedgeh/MendixSoftCRM-app">
   </a>
 </p>
 
@@ -108,7 +108,7 @@ Available soon at: http://docs.MendixSoftCRM.io
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/pdovhomilja/MendixSoftCRM-app.git
+   git clone https://github.com/naveedgeh/MendixSoftCRM-app.git
    cd MendixSoftCRM-app
    ```
 
@@ -206,12 +206,12 @@ We are open to the MendixSoftCRM community contributions. Every contribution is 
 
 ### Issues
 
-- [Open an issue](https://github.com/pdovhomilja/MendixSoftCRM-app/issues) if you find a bug or have a suggestion for improvements.
+- [Open an issue](https://github.com/naveedgeh/MendixSoftCRM-app/issues) if you find a bug or have a suggestion for improvements.
 
 ### MendixSoftCRM Super heroes
 
-<a href="https://github.com/pdovhomilja/MendixSoftCRM-app/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pdovhomilja/MendixSoftCRM-app" />
+<a href="https://github.com/naveedgeh/MendixSoftCRM-app/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=naveedgeh/MendixSoftCRM-app" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
@@ -222,8 +222,8 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pdovhomilja/MendixSoftCRM-app&type=Timeline)](https://star-history.com/#pdovhomilja/MendixSoftCRM-app&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=naveedgeh/MendixSoftCRM-app&type=Timeline)](https://star-history.com/#naveedgeh/MendixSoftCRM-app&Timeline)
 
 ## License
 
-Licensed under the [MIT license](https://github.com/pdovhomilja/MendixSoftCRM-app/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/naveedgeh/MendixSoftCRM-app/blob/main/LICENSE.md).

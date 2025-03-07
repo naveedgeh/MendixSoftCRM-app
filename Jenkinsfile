@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Checkout the Code/Github') {
       steps {
-        git(url: 'https://github.com/pdovhomilja/MendixSoftCRM-app', branch: 'main')
+        git(url: 'https://github.com/naveedgeh/MendixSoftCRM-app', branch: 'main')
       }
     }
 
@@ -18,7 +18,7 @@ pipeline {
 
     stage('GITHUB 2 step ENV') {
       steps {
-        git(url: 'https://github.com/pdovhomilja/MendixSoftCRM-configs.git', branch: 'main', credentialsId: 'pdgithub')
+        git(url: 'https://github.com/naveedgeh/nextcrm-app-configs.git', branch: 'main', credentialsId: 'naveedgeh')
       }
     }
 
